@@ -1,0 +1,5 @@
+current directory: /Users/kikuchisatomi/Desktop/app/rails_tutorial/vendor/bundle/ruby/2.5.0/gems/childprocess-1.0.1/ext
+/Users/kikuchisatomi/.rbenv/versions/2.5.0/bin/ruby mkrf_conf.rb
+
+current directory: /Users/kikuchisatomi/Desktop/app/rails_tutorial/vendor/bundle/ruby/2.5.0/gems/childprocess-1.0.1/ext
+/Users/kikuchisatomi/.rbenv/versions/2.5.0/bin/ruby -rrubygems /Users/kikuchisatomi/Desktop/app/rails_tutorial/vendor/bundle/ruby/2.5.0/gems/rake-12.3.2/exe/rake RUBYARCHDIR=/Users/kikuchisatomi/Desktop/app/rails_tutorial/vendor/bundle/ruby/2.5.0/extensions/x86_64-darwin-17/2.5.0-static/childprocess-1.0.1 RUBYLIBDIR=/Users/kikuchisatomi/Desktop/app/rails_tutorial/vendor/bundle/ruby/2.5.0/extensions/x86_64-darwin-17/2.5.0-static/childprocess-1.0.1
